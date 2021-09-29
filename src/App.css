@@ -11,3 +11,17 @@
   flex-wrap: wrap;
   margin: 0 auto;
 }
+
+.togglebox{
+  height: 50px;
+  width: 100px;
+  border: 1px solid black;
+  align-items: top;
+}
+
+.togglebox1{
+  height: 50px;
+  width: 100px;
+  border: 1px solid black;
+  align-items: top;
+}
