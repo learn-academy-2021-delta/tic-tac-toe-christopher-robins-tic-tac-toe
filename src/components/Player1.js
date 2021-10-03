@@ -9,7 +9,7 @@ class Player1 extends Component {
     render(){
     return(
         <>
-        <div onClick= {this.handleClick}>
+        <div onClick= {this.handleClick.player1}>
         {this.props.value}
         </div>
         </>
